@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HorizonGames.github.io%20/static/css/main.4607a7b6.css",
+    "main.js": "/HorizonGames.github.io%20/static/js/main.8aa8ceae.js",
+    "index.html": "/HorizonGames.github.io%20/index.html",
+    "main.4607a7b6.css.map": "/HorizonGames.github.io%20/static/css/main.4607a7b6.css.map",
+    "main.8aa8ceae.js.map": "/HorizonGames.github.io%20/static/js/main.8aa8ceae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4607a7b6.css",
+    "static/js/main.8aa8ceae.js"
+  ]
+}
